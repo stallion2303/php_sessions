@@ -1,1 +1,4 @@
-# php_sessions
+PHP sessions count
+==================
+
+Monitoring with Zabbix.
